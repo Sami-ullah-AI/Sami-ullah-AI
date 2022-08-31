@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine learning in python.
-- 🌱 I’m currently learning Deep learning and also micro python through which i can deploy AI in different real life problems.
+- 🌱 I’m currently learning Deep learning and also  python django through which i can deploy AI in different real life problems and web.
 - 👯 I’m looking to collaborate on Machine learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
