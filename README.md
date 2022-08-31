@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Sami-ullah-AI/Sami-ullah-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sami-ullah-AI/Sami-ullah-AI** is a ✨ _special_ ✨ programmer
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Machine learning in python.
 - 🌱 I’m currently learning Deep learning and also  python django through which i can deploy AI in different real life problems and web.
