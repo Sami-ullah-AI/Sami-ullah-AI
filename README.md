@@ -1,16 +1,11 @@
-### Hi there 👋
 
+Hi there 👋
+I'm Sami-ullah-AI, a ✨ special ✨ programmer deeply immersed in the world of Machine Learning and Python development.
 
-**Sami-ullah-AI/Sami-ullah-AI** is a ✨ _special_ ✨ programmer
+🔭 Currently, I'm channeling my expertise into Machine Learning projects using Python.
+🌱 I'm expanding my knowledge base with a focus on Deep Learning and mastering Python Django to deploy AI solutions in real-life scenarios and on the web.
+👯 I'm actively seeking collaborations in the exciting realm of Machine Learning.
+📫 Connect with me: [Your Preferred Contact Method]
+Let's explore the possibilities of AI together and turn ideas into intelligent solutions!
 
-
-
-- 🔭 I’m currently working on Machine learning in python.
-- 🌱 I’m currently learning Deep learning and also  python django through which i can deploy AI in different real life problems and web.
-- 👯 I’m looking to collaborate on Machine learning
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Happy coding! 🚀
