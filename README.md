@@ -1,5 +1,5 @@
 
-Hello Sami,
+## Hello ,
 
 Welcome to my GitHub profile! I'm Sami, a dedicated and passionate Machine Learning engineer with over 2 years of hands-on experience in the field. My expertise spans across various domains including **Machine Learnin**g, **Deep Learning**, **Transfer Learning**, **Natural** **Language** **Processing** (**NLP**), and **Computer Vision**. With a strong foundation in both **theory** and **practical** implementation, I've successfully completed and contributed to over **80** projects.
 
